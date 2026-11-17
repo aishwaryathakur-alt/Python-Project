@@ -1,0 +1,10 @@
+Deposit,5000
+Withdraw,2000
+Withdraw,10000
+Deposit,50000
+Deposit,25000
+Withdraw,5000
+Withdraw,10000
+Deposit,45000
+Withdraw,20000
+Deposit,15000
